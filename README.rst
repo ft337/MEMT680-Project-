@@ -46,7 +46,8 @@ Once this is complete, install the package locally with the command: ``pip insta
 
 To run the interactive plot, run: ``interactive_plot``
 Which should host the interactive demo locally at the address ``http://127.0.0.1:8050/``. 
-
+The interactive plot allows you to adjust which dataset you are looking at (anode, cathode, or other substances)
+and also allows you to adjust the number of images shown on the panel. 
 
 
 
