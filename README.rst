@@ -34,15 +34,15 @@ Homework3
 =========
 
 
-    This repository uses `matplotlib` to display randomly selected images from my dataset as well as random examples. 
-    Along with a static visualization, using `Dash` an interactive plot was produced. 
+This repository uses `matplotlib` to display randomly selected images from my dataset as well as random examples. 
+Along with a static visualization, using `Dash` an interactive plot was produced. Here the dataset 
 
-    After cloning my repository, create a new environment and run:  `pip install -r docs/requirements.txt` to download the dependencies. 
+After cloning my repository, create a new environment and run:  `pip install -r docs/requirements.txt` to download the dependencies. 
     
-    Once this is complete, install the package locally with the command: `pip install -e .`
-   
-    To run the interactive plot, run: `interactive_plot`
-    Which should host the interactive demo locally at the address `http://127.0.0.1:8050/`. 
+Once this is complete, install the package locally with the command: `pip install -e .`
+
+To run the interactive plot, run: `interactive_plot`
+Which should host the interactive demo locally at the address `http://127.0.0.1:8050/`. 
 
 
 
