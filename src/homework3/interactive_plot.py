@@ -129,8 +129,10 @@ def update_images(category, num_images):
             }
         ))
     return images
+def main():
+    app.run_server(debug=True)
 
 # Run the Dash app
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    main()
 
