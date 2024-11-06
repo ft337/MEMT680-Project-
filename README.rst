@@ -35,7 +35,10 @@ Homework3
 
 
 This repository uses ``matplotlib`` to display randomly selected images from my dataset as well as random examples. 
-Along with a static visualization, using ``Dash`` an interactive plot was produced. Here the dataset 
+Along with a static visualization, using ``Dash`` an interactive plot was produced. Here the dataset contains images of 
+spent lithium ion batteries, including the anode, cathode, and other substance. The images were collected from industrial shredder
+machines. The dataset could be used for classification of object detection. The link to the dataset: 
+``https://www.kaggle.com/datasets/thgere/spent-lithium-ion-battery-recyclingslibr-dataset``
 
 After cloning my repository, create a new environment and run:  ``pip install -r docs/requirements.txt`` to download the dependencies. 
     
